@@ -1,0 +1,15 @@
+/target/
+/.idea/
+/.vscode/
+/.settings/
+/.classpath
+/.project
+/.factorypath
+
+**/target/
+**/.settings/
+**/.classpath
+**/.project
+**/.factorypath
+
+.DS_Store
